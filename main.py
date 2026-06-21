@@ -93,6 +93,11 @@ h1{
             <li>Deploy Apps With A Gap Of 3-4 Hours Between Each Deploy.</li>
         </ol>
     </div>
+    <div style="margin-top:25px;text-align:center;">
+    <a href="https://t.me/mr_smile_gk" target="_blank" style="display:inline-block;padding:12px 24px;background:#60a5fa;color:white;text-decoration:none;border-radius:10px;font-weight:bold;">
+        DM To Buy: Mr. Smile
+    </a>
+</div>
 </div>
 </body>
 </html>
